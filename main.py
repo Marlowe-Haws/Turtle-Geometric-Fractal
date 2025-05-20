@@ -109,7 +109,7 @@ for _ in range(4):
     draw_polygons_grouped()
     my_turtle.forward(100)
 
-# You could continue indefinitely doubling the distance moved.
+# You could continue by doubling the distance moved indefinitely.
 # for _ in range(4):
 #     draw_polygons_grouped()
 #     my_turtle.forward(200)
@@ -122,4 +122,5 @@ for _ in range(4):
 #         my_turtle.forward(side_length)
 #         my_turtle.left(120)
 # Continue passing the argument through the chain of calling functions.
+
 my_screen.exitonclick()
