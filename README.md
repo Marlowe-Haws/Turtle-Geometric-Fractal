@@ -9,3 +9,5 @@ Then I wrote a function to draw all these shapes, rotate 90 degrees, then redraw
 I made it draw 4 sets of 12 shapes in a group with a common origin, then move forward, and repeat the whole preceeding steps in a larger group of 4. 
 
 The program was elegantly reduced to a single function composed of other functions. 
+
+MIT license.
