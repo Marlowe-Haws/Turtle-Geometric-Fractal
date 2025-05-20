@@ -121,6 +121,7 @@ for _ in range(4):
 #     for _ in range(3):
 #         my_turtle.forward(side_length)
 #         my_turtle.left(120)
-# Continue passing the argument through the chain of calling functions.
+# Redefine all the shapes like this.
+# Then continue passing the argument through the chain of calling functions.
 
 my_screen.exitonclick()
